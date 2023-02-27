@@ -13,9 +13,9 @@
 - Some was declared and was commented out, ...their controllers and services has NOT been implemented yet. You can try and finish it off.
 - Documentation: document the API using postman for your frontend devs to use it. Or you can just use markdown file.
 
-## The App url
-- `localhost:3000/api/v1/rooms`
-- `localhost:3000/api/v1/room-types`
+## Documentation
+- Room resource (or base endpoint): `localhost:3000/api/v1/rooms`
+- RoomType resource: `localhost:3000/api/v1/room-types`
 - NB: Your port above may differ from this port
 
 ### Sample requests and responses
