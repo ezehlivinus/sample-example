@@ -19,7 +19,7 @@
 - NB: Your port above may differ from this port
 
 ### Sample requests and responses
-Note that `status code` and `headers` both request and response headers inforation were omitted, you can add these to yours
+Note that `status code` and other `headers` information including request and response headers inforation were omitted, you can add these to yours. Example of other headers: `Authorization`, `access-token`, `x-auth-token` etc.
 
 - creating a new room type
 - endpoint: `localhost:3000/api/v1/room-types`
